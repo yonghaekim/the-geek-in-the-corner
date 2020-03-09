@@ -1,0 +1,2 @@
+MY=$PWD
+echo $MY
